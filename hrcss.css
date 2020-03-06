@@ -1,7 +1,23 @@
-#col-1 {
+
+
+#timer {
+    float: right;
+}
+
+
+.container {
+    width: 100%;
     background-color: red;
+    margin-left:200px;
+    margin-right:200px;
     text-align: center;
 }
+
+.col {
+    text-align: center;
+}
+
+
 
 .hide {
     display: none;
